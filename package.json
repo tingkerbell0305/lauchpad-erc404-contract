@@ -1,0 +1,25 @@
+{
+  "name": "erc404launchpadcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venusgalstar/ERC404LaunchpadContract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venusgalstar/ERC404LaunchpadContract/issues"
+  },
+  "homepage": "https://github.com/venusgalstar/ERC404LaunchpadContract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^2.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "@uniswap/v3-core": "^1.0.1",
+    "hardhat": "^2.19.5"
+  }
+}
